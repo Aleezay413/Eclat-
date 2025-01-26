@@ -1,1 +1,1 @@
-# Eclat-
+# Eclat is a React-based e-commerce project  that displays accessories in a visually appealing way. Each accessories has an image, name, price, and a button to add it to a shopping cart. It uses CartContext to manage the cart functionality (like adding items), and the layout is styled with Bootstrap, ensuring it’s responsive and user-friendly across different screen sizes. It’s a great setup for an online shopping experience!
